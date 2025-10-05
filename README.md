@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your MY project ( TechZephyr )
 
 ## Project info
 
@@ -6,13 +6,8 @@
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
+There are several way of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/63ddb807-cc13-4cae-b28b-f627d93de456) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -60,14 +55,11 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+Deployment
 
-Simply open [Lovable](https://lovable.dev/projects/63ddb807-cc13-4cae-b28b-f627d93de456) and click on Share -> Publish.
+Simply clone the repo and open index.html in your browser.
+git clone https://github.com/03aditya-byte/greeting-whisper-wave
+.git
+cd greeting-whisper-wave
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+open index.html   # or just double-click the file
